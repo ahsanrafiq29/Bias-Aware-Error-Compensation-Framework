@@ -1,3 +1,9 @@
 # Bias-Aware-Error-Compensation-Framework
 
-This repository is used to generate all the files used in our research work on Microprocessors and Microsystems (Special Issue). I have provided a) Verilog codes of all the relevant designs b) Values directly taken from the designs whose verilog codes were not available because those designs were implemented in 45nm technology. c) tcl files used in the design is also given d) python codes used to find output Error Metrics. e) Test bench is also present
+This repository is our research work for the Microprocessors and Microsystems (Special Issue) Journal. 
+I have provided 
+  a) Verilog codes of all the relevant designs 
+  b) Testbench
+  c) Outputs files (.txt)  
+  d) Python codes to find Error Metrics. 
+  e) Details of Inference Accuracies by each Family.
